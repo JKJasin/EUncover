@@ -1,0 +1,459 @@
+{
+    "Cynthia Ní Mhurchú": {
+        "mep_name": "Cynthia Ní Mhurchú",
+        "declaration": {
+            "surname": "Ní Mhurchú",
+            "first_name": "Cynthia",
+            "declaration_date": "2024-07-22",
+            "occupation_membership": [
+                {
+                    "role": "Barrister",
+                    "organization": null,
+                    "income_amount": "180000 EUR",
+                    "periodicity": "Yearly"
+                },
+                {
+                    "role": "Member of the Governing Body",
+                    "organization": "South East Technological University",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Ciaran Mullooly": {
+        "mep_name": "Ciaran Mullooly",
+        "declaration": {
+            "surname": "Mullooly",
+            "first_name": "Ciaran",
+            "declaration_date": "2024-06-17",
+            "occupation_membership": [
+                {
+                    "role": "Tourism activator",
+                    "organization": "EUJTF",
+                    "income_amount": "55000 EUR",
+                    "periodicity": "Yearly"
+                },
+                {
+                    "role": "Director and company secretary",
+                    "organization": "Lough Ree Access For All CLG",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                },
+                {
+                    "role": "Director",
+                    "organization": "Marconi LTD",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                },
+                {
+                    "role": "Freelance Journalist",
+                    "organization": null,
+                    "income_amount": "5000 EUR",
+                    "periodicity": "Yearly (estimation)"
+                },
+                {
+                    "role": "Social Inclusion Officer",
+                    "organization": "Roscommon Integrated Development Company",
+                    "income_amount": "38000 EUR",
+                    "periodicity": "Yearly"
+                }
+            ],
+            "remunerated_activity": [
+                {
+                    "field_and_nature": "Journalist - Freelance",
+                    "income_amount": "5000 EUR",
+                    "periodicity": "Yearly (estimation)"
+                }
+            ],
+            "membership": [
+                {
+                    "role": "Director",
+                    "organization": "Marconi LTD",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                },
+                {
+                    "role": "Director and company secretary",
+                    "organization": "Lough Ree Access For All CLG",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Michael McNamara": {
+        "mep_name": "Michael McNamara",
+        "declaration": {
+            "surname": "McNamara",
+            "first_name": "Michael",
+            "declaration_date": "2024-07-18",
+            "occupation_membership": [
+                {
+                    "role": "TD (Member of Parliament of Ireland)",
+                    "organization": null,
+                    "income_amount": "10278 EUR",
+                    "periodicity": "Monthly"
+                },
+                {
+                    "role": "Barrister",
+                    "organization": "Bar of Ireland",
+                    "income_amount": "3180 EUR",
+                    "periodicity": "Monthly"
+                },
+                {
+                    "role": "Farmer",
+                    "organization": null,
+                    "income_amount": "2500 EUR",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [
+                {
+                    "field_and_nature": "Barrister - Bar of Ireland",
+                    "income_amount": "2500 EUR",
+                    "periodicity": "Monthly"
+                },
+                {
+                    "field_and_nature": "Farmer - Farm (inc. agri-tourism)",
+                    "income_amount": "2500 EUR",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Billy Kelleher": {
+        "mep_name": "Billy Kelleher",
+        "declaration": {
+            "surname": "Kelleher",
+            "first_name": "Billy",
+            "declaration_date": "2024-06-17",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "European Parliament",
+                    "income_amount": "Public Information",
+                    "periodicity": "Monthly"
+                },
+                {
+                    "role": "Farmer",
+                    "organization": "Agriculture Farm",
+                    "income_amount": "2000 EUR",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [
+                {
+                    "field_and_nature": "Agriculture Farm",
+                    "income_amount": "2000 EUR",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "membership": [],
+            "holdings": [
+                {
+                    "entity": "Shares Kerry CO-OP, Shares Kerry PLC",
+                    "income_amount": "8000 EUR",
+                    "periodicity": "Yearly"
+                }
+            ],
+            "additional_support": null,
+            "private_interests": "2 residential rental properties",
+            "additional_information": null
+        }
+    },
+    "Nina Carberry": {
+        "mep_name": "Nina Carberry",
+        "declaration": {
+            "surname": "Carberry",
+            "first_name": "Nina",
+            "declaration_date": "2024-07-24",
+            "occupation_membership": [
+                {
+                    "role": "CEO",
+                    "organization": "Nina Carberry Racing Ltd",
+                    "income_amount": "761 EUR",
+                    "periodicity": "Weekly"
+                },
+                {
+                    "role": "Member of the board",
+                    "organization": "Fairyhouse Racecourse",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "remunerated_activity": [
+                {
+                    "field_and_nature": "CEO - Nina Carberry Racing Ltd",
+                    "income_amount": "761 EUR",
+                    "periodicity": "Weekly"
+                }
+            ],
+            "membership": [
+                {
+                    "role": "Member of the board",
+                    "organization": "Fairyhouse Racecourse",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "holdings": [
+                {
+                    "entity": "Nina Carberry Racing Ltd",
+                    "percentage": "100%",
+                    "significant_influence": true,
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Kathleen Funchion": {
+        "mep_name": "Kathleen Funchion",
+        "declaration": {
+            "surname": "Funchion",
+            "first_name": "Kathleen",
+            "declaration_date": "2024-06-25",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "Dail Eireann",
+                    "income_amount": "10176 EUR",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Luke Ming Flanagan": {
+        "mep_name": "Luke Ming Flanagan",
+        "declaration": {
+            "surname": "Flanagan",
+            "first_name": "Luke Ming",
+            "declaration_date": "2024-07-04",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "European Parliament",
+                    "income_amount": "Public Information",
+                    "periodicity": "Monthly"
+                },
+                {
+                    "role": "NORML - National Organisation for the Reform of Marijuana Laws",
+                    "organization": "Ireland Ltd",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Barry Cowen": {
+        "mep_name": "Barry Cowen",
+        "declaration": {
+            "surname": "Cowen",
+            "first_name": "Barry",
+            "declaration_date": "2024-07-08",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "Irish Parliament",
+                    "income_amount": "112553 EUR",
+                    "periodicity": "Yearly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Aodhán Ó Ríordáin": {
+        "mep_name": "Aodhán Ó Ríordáin",
+        "declaration": {
+            "surname": "Ó Ríordáin",
+            "first_name": "Aodhán",
+            "declaration_date": "2024-07-15",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "Irish Parliament",
+                    "income_amount": "100000 EUR",
+                    "periodicity": "Yearly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Seán Kelly": {
+        "mep_name": "Seán Kelly",
+        "declaration": {
+            "surname": "Kelly",
+            "first_name": "Seán",
+            "declaration_date": "2024-06-18",
+            "occupation_membership": [
+                {
+                    "role": "MEP",
+                    "organization": "European Parliament",
+                    "income_amount": "Public Information",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Barry Andrews": {
+        "mep_name": "Barry Andrews",
+        "declaration": {
+            "surname": "Andrews",
+            "first_name": "Barry",
+            "declaration_date": "2024-07-17",
+            "occupation_membership": [
+                {
+                    "role": "Member of the European Parliament",
+                    "organization": "European Parliament",
+                    "income_amount": "Public information",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Regina Doherty": {
+        "mep_name": "Regina Doherty",
+        "declaration": {
+            "surname": "Doherty",
+            "first_name": "Regina",
+            "declaration_date": "2024-06-18",
+            "occupation_membership": [
+                {
+                    "role": "Senator",
+                    "organization": "Ireland",
+                    "income_amount": "78826 EUR",
+                    "periodicity": "Yearly"
+                },
+                {
+                    "role": "Trustee",
+                    "organization": "PIETA",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [
+                {
+                    "role": "Trustee",
+                    "organization": "PIETA",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Lynn Boylan": {
+        "mep_name": "Lynn Boylan",
+        "declaration": {
+            "surname": "Boylan",
+            "first_name": "Lynn",
+            "declaration_date": "2024-06-20",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "Seanad",
+                    "income_amount": "78000 EUR",
+                    "periodicity": "Yearly"
+                },
+                {
+                    "role": "Member of the board",
+                    "organization": "Saint Kevin's National School",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [
+                {
+                    "role": "Member of the board",
+                    "organization": "Saint Kevin's National School",
+                    "income_amount": "None",
+                    "periodicity": "N/A"
+                }
+            ],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": null,
+            "additional_information": null
+        }
+    },
+    "Maria Walsh": {
+        "mep_name": "Maria Walsh",
+        "declaration": {
+            "surname": "Walsh",
+            "first_name": "Maria",
+            "declaration_date": "2024-06-18",
+            "occupation_membership": [
+                {
+                    "role": "Member",
+                    "organization": "European Parliament",
+                    "income_amount": "Public information",
+                    "periodicity": "Monthly"
+                }
+            ],
+            "remunerated_activity": [],
+            "membership": [],
+            "holdings": [],
+            "additional_support": null,
+            "private_interests": "Transfer of family farm holding, approx 50 acres prior to 35th birthday on June 11th, 2022. Teagasc Green Certificate from September 2019 to April 2021. Representative working for young farmers.",
+            "additional_information": null
+        }
+    }
+}

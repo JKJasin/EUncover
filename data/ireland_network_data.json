@@ -1,0 +1,2630 @@
+{
+    "Barry Andrews": {
+        "nodes": [
+            {
+                "id": "Barry Andrews",
+                "type": "Person"
+            },
+            {
+                "id": "Trade and business associations",
+                "type": "Category"
+            },
+            {
+                "id": "European Partnership for Energy and the Environment",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "World Bank",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "ACTION CONTRE LA FAIM",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Global Partnership for Education",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "fair trade advocacy office",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Heat Pump Association",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "WindEurope",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "British Irish Chamber of Commerce",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "European Biogas Association",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "VOICE",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Huawei Technologies",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Vodafone",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Permanent Representation of Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Global Witness",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Trocaire",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "AmCham Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "VDMA",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "CBI",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "SCG",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Think tanks and research institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Terre des Hommes International Federation",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "ECRE",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "MSD",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "GSK",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Centre for Democracy and Human Rights",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Irish Whiskey",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "WUC",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Macra na Feirme",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Apple Inc.",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Strategic Ppower",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Ornua Co-operative Limited",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "ACT Alliance Advocacy to the European Union",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Council on Refugees and Exiles",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Restaurant Association of Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "WWF",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "IBEC",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "David Andrews",
+                "type": "Person"
+            },
+            {
+                "id": "David McSavage",
+                "type": "Person"
+            },
+            {
+                "id": "Todd Andrews",
+                "type": "Person"
+            },
+            {
+                "id": "Niall Andrews",
+                "type": "Person"
+            },
+            {
+                "id": "Chris Andrews",
+                "type": "Person"
+            },
+            {
+                "id": "Ryan Tubridy",
+                "type": "Person"
+            },
+            {
+                "id": "Fianna F\u00e1il",
+                "type": "Political Party"
+            },
+            {
+                "id": "Institute of International and European Affairs (IIEA)",
+                "type": "Think Tank"
+            },
+            {
+                "id": "GOAL",
+                "type": "Non-Governmental Organization"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Government of Ireland",
+                "type": "Government"
+            },
+            {
+                "id": "Cumann na mBan",
+                "type": "Organization"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Barry Andrews",
+                "target": "Trade and business associations",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "European Partnership for Energy and the Environment",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "World Bank",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "ACTION CONTRE LA FAIM",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Global Partnership for Education",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "fair trade advocacy office",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "European Heat Pump Association",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "WindEurope",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "British Irish Chamber of Commerce",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "European Biogas Association",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "VOICE",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "Huawei Technologies",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Vodafone",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Permanent Representation of Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Global Witness",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Trocaire",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "AmCham Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "VDMA",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "CBI",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "SCG",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Think tanks and research institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "Terre des Hommes International Federation",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "ECRE",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "MSD",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "GSK",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "European Centre for Democracy and Human Rights",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Irish Whiskey",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "WUC",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "Macra na Feirme",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Apple Inc.",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Strategic Ppower",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "Ornua Co-operative Limited",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "ACT Alliance Advocacy to the European Union",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "European Council on Refugees and Exiles",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "Restaurant Association of Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "WWF",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "IBEC",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "David Andrews",
+                "relation": "Father"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "David McSavage",
+                "relation": "Brother"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Todd Andrews",
+                "relation": "Grandfather"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Niall Andrews",
+                "relation": "Uncle"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Chris Andrews",
+                "relation": "Cousin"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Ryan Tubridy",
+                "relation": "Cousin"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "Institute of International and European Affairs (IIEA)",
+                "relation": "Director-General (2017\u20132019)"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "GOAL",
+                "relation": "CEO (2012\u20132016)"
+            },
+            {
+                "source": "Barry Andrews",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Todd Andrews",
+                "relation": "Father"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Niall Andrews",
+                "relation": "Brother"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Barry Andrews",
+                "relation": "Son"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Chris Andrews",
+                "relation": "Nephew"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Ryan Tubridy",
+                "relation": "Nephew"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "David Andrews",
+                "target": "Government of Ireland",
+                "relation": "Minister for Foreign Affairs"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "David Andrews",
+                "relation": "Son"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "Niall Andrews",
+                "relation": "Son"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "Barry Andrews",
+                "relation": "Grandson"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "Chris Andrews",
+                "relation": "Grandson"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "Fianna F\u00e1il",
+                "relation": "Founding Member"
+            },
+            {
+                "source": "Todd Andrews",
+                "target": "Cumann na mBan",
+                "relation": "Member"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "Todd Andrews",
+                "relation": "Father"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "David Andrews",
+                "relation": "Brother"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "Barry Andrews",
+                "relation": "Nephew"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "Chris Andrews",
+                "relation": "Son"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Niall Andrews",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Chris Andrews",
+                "target": "Niall Andrews",
+                "relation": "Father"
+            },
+            {
+                "source": "Chris Andrews",
+                "target": "Todd Andrews",
+                "relation": "Grandfather"
+            }
+        ]
+    },
+    "Lynn Boylan": {
+        "nodes": [
+            {
+                "id": "Lynn Boylan",
+                "type": "Person"
+            },
+            {
+                "id": "Upflit",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Palestinian Digital Rights Organisation",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Active Retirement Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Wind Energy Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "WindEurope",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Irish Regional Assemblies",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "The Palestinian Initiative for the Promotion of Global Dialogue and Democracy (MIFTAH)",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "The Mission of Palestine to the EU",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Belgium and Luxembourg",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Think tanks and research institutions",
+                "type": "Category"
+            },
+            {
+                "id": "WWF European Policy Programme",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "VIER PFOTEN International",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "ClientEarth AISBL",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "VOICE of concern for the Irish environment",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Trade Justice Coalition (formerly S2B)",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Eoin \u00d3 Broin",
+                "type": "Person"
+            },
+            {
+                "id": "Sinn F\u00e9in",
+                "type": "Political Party"
+            },
+            {
+                "id": "An Phoblacht",
+                "type": "Publication"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "Political Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Lynn Boylan",
+                "target": "Upflit",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Palestinian Digital Rights Organisation",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Active Retirement Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Wind Energy Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "WindEurope",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Irish Regional Assemblies",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "The Palestinian Initiative for the Promotion of Global Dialogue and Democracy (MIFTAH)",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "The Mission of Palestine to the EU",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Belgium and Luxembourg",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Think tanks and research institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "WWF European Policy Programme",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "VIER PFOTEN International",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "ClientEarth AISBL",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "VOICE of concern for the Irish environment",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "European Trade Justice Coalition (formerly S2B)",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Eoin \u00d3 Broin",
+                "relation": "Partner"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "Sinn F\u00e9in",
+                "relation": "Member"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "An Phoblacht",
+                "relation": "Contributor (EU Affairs)"
+            },
+            {
+                "source": "Lynn Boylan",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Eoin \u00d3 Broin",
+                "target": "Lynn Boylan",
+                "relation": "Partner"
+            },
+            {
+                "source": "Eoin \u00d3 Broin",
+                "target": "Sinn F\u00e9in",
+                "relation": "Member"
+            },
+            {
+                "source": "Eoin \u00d3 Broin",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD)"
+            }
+        ]
+    },
+    "Nina Carberry": {
+        "nodes": [
+            {
+                "id": "Nina Carberry",
+                "type": "Person"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "European Network Airlines' Association",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Trade and business associations",
+                "type": "Category"
+            },
+            {
+                "id": "Jaguar Land Rover Limited",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Central Bank of Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Trane Technologies",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Professional consultancies",
+                "type": "Category"
+            },
+            {
+                "id": "ChargeUp Europe",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Association of Automotive Suppliers",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Airlines for Europe",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "EUROTRAN Conseil",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "Ibec",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Academic institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Freight Transport Association Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Ted Walsh Junior",
+                "type": "Person"
+            },
+            {
+                "id": "Tommy Carberry",
+                "type": "Person"
+            },
+            {
+                "id": "Paul Carberry",
+                "type": "Person"
+            },
+            {
+                "id": "Philip Carberry",
+                "type": "Person"
+            },
+            {
+                "id": "Arthur Moore",
+                "type": "Person"
+            },
+            {
+                "id": "Fine Gael",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Ireland's Fittest Family",
+                "type": "Television Program"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Nina Carberry",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "European Network Airlines' Association",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Trade and business associations",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "Jaguar Land Rover Limited",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Central Bank of Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Trane Technologies",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Professional consultancies",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Professional consultancies",
+                "target": "ChargeUp Europe",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "European Association of Automotive Suppliers",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Airlines for Europe",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "EUROTRAN Conseil",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "Ibec",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Academic institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Academic institutions",
+                "target": "Freight Transport Association Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Ted Walsh Junior",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Tommy Carberry",
+                "relation": "Father"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Paul Carberry",
+                "relation": "Brother"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Philip Carberry",
+                "relation": "Brother"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Arthur Moore",
+                "relation": "Maternal Uncle"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Fine Gael",
+                "relation": "Member"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Nina Carberry",
+                "target": "Ireland's Fittest Family",
+                "relation": "Coach"
+            },
+            {
+                "source": "Tommy Carberry",
+                "target": "Nina Carberry",
+                "relation": "Daughter"
+            },
+            {
+                "source": "Tommy Carberry",
+                "target": "Paul Carberry",
+                "relation": "Son"
+            },
+            {
+                "source": "Tommy Carberry",
+                "target": "Philip Carberry",
+                "relation": "Son"
+            },
+            {
+                "source": "Tommy Carberry",
+                "target": "Arthur Moore",
+                "relation": "Brother-in-law"
+            },
+            {
+                "source": "Paul Carberry",
+                "target": "Tommy Carberry",
+                "relation": "Father"
+            },
+            {
+                "source": "Paul Carberry",
+                "target": "Nina Carberry",
+                "relation": "Sister"
+            },
+            {
+                "source": "Paul Carberry",
+                "target": "Philip Carberry",
+                "relation": "Brother"
+            },
+            {
+                "source": "Paul Carberry",
+                "target": "Arthur Moore",
+                "relation": "Maternal Uncle"
+            },
+            {
+                "source": "Philip Carberry",
+                "target": "Tommy Carberry",
+                "relation": "Father"
+            },
+            {
+                "source": "Philip Carberry",
+                "target": "Paul Carberry",
+                "relation": "Brother"
+            },
+            {
+                "source": "Philip Carberry",
+                "target": "Nina Carberry",
+                "relation": "Sister"
+            },
+            {
+                "source": "Philip Carberry",
+                "target": "Arthur Moore",
+                "relation": "Maternal Uncle"
+            }
+        ]
+    },
+    "Kathleen Funchion": {
+        "nodes": [
+            {
+                "id": "Kathleen Funchion",
+                "type": "Person"
+            },
+            {
+                "id": "Trade and business associations",
+                "type": "Category"
+            },
+            {
+                "id": "Cook Medical EMEA Group Limited",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "Eli Lilly and Company",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "David Cullinane",
+                "type": "Person"
+            },
+            {
+                "id": "Sinn F\u00e9in",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "National Parliament"
+            },
+            {
+                "id": "Kilkenny County Council",
+                "type": "Local Government"
+            },
+            {
+                "id": "SIPTU",
+                "type": "Trade Union"
+            },
+            {
+                "id": "Seanad \u00c9ireann",
+                "type": "National Parliament"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Kathleen Funchion",
+                "target": "Trade and business associations",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "Cook Medical EMEA Group Limited",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Eli Lilly and Company",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "David Cullinane",
+                "relation": "Ex-Spouse"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "Sinn F\u00e9in",
+                "relation": "Member"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP) for South (2024\u2013present)"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD) for Carlow\u2013Kilkenny (2016\u20132024)"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "Kilkenny County Council",
+                "relation": "Member (2014\u20132016)"
+            },
+            {
+                "source": "Kathleen Funchion",
+                "target": "SIPTU",
+                "relation": "Employee"
+            },
+            {
+                "source": "David Cullinane",
+                "target": "Sinn F\u00e9in",
+                "relation": "Member"
+            },
+            {
+                "source": "David Cullinane",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD) for Waterford (2016\u2013present)"
+            },
+            {
+                "source": "David Cullinane",
+                "target": "Seanad \u00c9ireann",
+                "relation": "Senator (2011\u20132016)"
+            }
+        ]
+    },
+    "Billy Kelleher": {
+        "nodes": [
+            {
+                "id": "Billy Kelleher",
+                "type": "Person"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "Ryanair Holdings",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "National Association of Regional Game Councils",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Central Bank of Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Apple Inc.",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Think tanks and research institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Irish Farmers' Association",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Trade unions and professional associations",
+                "type": "Category"
+            },
+            {
+                "id": "International Patient Organisation for Primary Immunodeficiencies",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "Europe Active",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Banking Federation",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Microsoft",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Amazon Web Services",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Counter Balance",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Bloomberg",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Deutsche Bank",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "American Chamber of Commerce Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Citi Bank",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Professional consultancies",
+                "type": "Category"
+            },
+            {
+                "id": "Banking & Payments Federation Ireland (BPFI)",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Liza Davis",
+                "type": "Person"
+            },
+            {
+                "id": "Liam Burke",
+                "type": "Person"
+            },
+            {
+                "id": "Fianna F\u00e1il",
+                "type": "Political Party"
+            },
+            {
+                "id": "Renew Europe",
+                "type": "Political Group"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "Political Institution"
+            },
+            {
+                "id": "20th Seanad",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Not available",
+                "type": "Person"
+            },
+            {
+                "id": "Fine Gael",
+                "type": "Political Party"
+            },
+            {
+                "id": "Seanad \u00c9ireann",
+                "type": "Political Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Billy Kelleher",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Ryanair Holdings",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "National Association of Regional Game Councils",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Central Bank of Ireland",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Apple Inc.",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Think tanks and research institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "Irish Farmers' Association",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Trade unions and professional associations",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Trade unions and professional associations",
+                "target": "International Patient Organisation for Primary Immunodeficiencies",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "Europe Active",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "European Banking Federation",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Microsoft",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Amazon Web Services",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Counter Balance",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Bloomberg",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Deutsche Bank",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "American Chamber of Commerce Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Citi Bank",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Professional consultancies",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Professional consultancies",
+                "target": "Banking & Payments Federation Ireland (BPFI)",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Liza Davis",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Liam Burke",
+                "relation": "Cousin"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "Renew Europe",
+                "relation": "Member"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD)"
+            },
+            {
+                "source": "Billy Kelleher",
+                "target": "20th Seanad",
+                "relation": "Senator (Nominated by the Taoiseach)"
+            },
+            {
+                "source": "Liam Burke",
+                "target": "Not available",
+                "relation": "Not available"
+            },
+            {
+                "source": "Liam Burke",
+                "target": "Fine Gael",
+                "relation": "Member"
+            },
+            {
+                "source": "Liam Burke",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD)"
+            },
+            {
+                "source": "Liam Burke",
+                "target": "Seanad \u00c9ireann",
+                "relation": "Senator"
+            }
+        ]
+    },
+    "Se\u00e1n Kelly": {
+        "nodes": [
+            {
+                "id": "Se\u00e1n Kelly",
+                "type": "Person"
+            },
+            {
+                "id": "University College Cork Economics Society",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Academic institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Kangaroo Group",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Arena Williams MP New Zealand Parliament",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Trade and business associations",
+                "type": "Category"
+            },
+            {
+                "id": "European Energy Forum",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Friends of Music",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "European Movement Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "Wind Energy Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Northern Ireland Executive Office",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Think tanks and research institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Irish Farmers' Association",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Seafood Ireland Group",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Fionnuala O'Kelly",
+                "type": "Person"
+            },
+            {
+                "id": "Fine Gael",
+                "type": "Political Party"
+            },
+            {
+                "id": "European People's Party",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Gaelic Athletic Association (GAA)",
+                "type": "Sports Organization"
+            },
+            {
+                "id": "Irish Institute of Sport",
+                "type": "Sports Organization"
+            },
+            {
+                "id": "Enda Kenny",
+                "type": "Person"
+            },
+            {
+                "id": "Government Information Service",
+                "type": "Government Agency"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "University College Cork Economics Society",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Academic institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Academic institutions",
+                "target": "Kangaroo Group",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Arena Williams MP New Zealand Parliament",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Trade and business associations",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Trade and business associations",
+                "target": "European Energy Forum",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Friends of Music",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "European Movement Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "Wind Energy Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Northern Ireland Executive Office",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Think tanks and research institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "Irish Farmers' Association",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Seafood Ireland Group",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Fionnuala O'Kelly",
+                "relation": "First cousin"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Fine Gael",
+                "relation": "Member"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "European People's Party",
+                "relation": "Member"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Gaelic Athletic Association (GAA)",
+                "relation": "President (2003\u20132006)"
+            },
+            {
+                "source": "Se\u00e1n Kelly",
+                "target": "Irish Institute of Sport",
+                "relation": "Executive Chairman (2006\u20132008)"
+            },
+            {
+                "source": "Fionnuala O'Kelly",
+                "target": "Enda Kenny",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Fionnuala O'Kelly",
+                "target": "Government Information Service",
+                "relation": "Head (1987\u20131990)"
+            }
+        ]
+    },
+    "Michael Mcnamara": {
+        "nodes": [
+            {
+                "id": "Michael Mcnamara",
+                "type": "Person"
+            },
+            {
+                "id": "Mission of Georgia to the EU",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "Ibec",
+                "type": "Lobbyist"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Michael Mcnamara",
+                "target": "Mission of Georgia to the EU",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Michael Mcnamara",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "Ibec",
+                "relation": "Includes Lobbyist"
+            }
+        ]
+    },
+    "Cynthia N\u00ed Mhurch\u00fa": {
+        "nodes": [
+            {
+                "id": "Cynthia N\u00ed Mhurch\u00fa",
+                "type": "Person"
+            },
+            {
+                "id": "National Association of Regional Game Councils",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Companies & groups",
+                "type": "Category"
+            },
+            {
+                "id": "The Irish Wildlife Trust",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "TikTok Technology Ltd",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Academic institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Freight Transport Association Ireland",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "John Kavanagh",
+                "type": "Person"
+            },
+            {
+                "id": "Brendan Murphy",
+                "type": "Person"
+            },
+            {
+                "id": "Columba Murphy",
+                "type": "Person"
+            },
+            {
+                "id": "Fianna F\u00e1il",
+                "type": "Political Party"
+            },
+            {
+                "id": "Renew Europe",
+                "type": "Political Group"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Raidi\u00f3 Teilif\u00eds \u00c9ireann (RT\u00c9)",
+                "type": "Broadcasting Organization"
+            },
+            {
+                "id": "RT\u00c9 Raidi\u00f3 na Gaeltachta",
+                "type": "Broadcasting Organization"
+            },
+            {
+                "id": "Carysfort College",
+                "type": "Educational Institution"
+            },
+            {
+                "id": "King's Inns",
+                "type": "Educational Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "National Association of Regional Game Councils",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Companies & groups",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "The Irish Wildlife Trust",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Companies & groups",
+                "target": "TikTok Technology Ltd",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Academic institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Academic institutions",
+                "target": "Freight Transport Association Ireland",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "John Kavanagh",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Brendan Murphy",
+                "relation": "Father"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Columba Murphy",
+                "relation": "Mother"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Renew Europe",
+                "relation": "Member"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Raidi\u00f3 Teilif\u00eds \u00c9ireann (RT\u00c9)",
+                "relation": "Former Radio Host"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "RT\u00c9 Raidi\u00f3 na Gaeltachta",
+                "relation": "Former Radio Host"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "Carysfort College",
+                "relation": "Alumna"
+            },
+            {
+                "source": "Cynthia N\u00ed Mhurch\u00fa",
+                "target": "King's Inns",
+                "relation": "Alumna"
+            }
+        ]
+    },
+    "Maria Walsh": {
+        "nodes": [
+            {
+                "id": "Maria Walsh",
+                "type": "Person"
+            },
+            {
+                "id": "COPA-COCEGA",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "UNWRA",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Associations and networks of public authorities",
+                "type": "Category"
+            },
+            {
+                "id": "European Coordination of Committees for Palestine",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "IFPO",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "IFPEA",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Irish South and West FPO",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Killybegs Stevedoring Limited",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Irish South and East Fish Producers Organisation",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Non-governmental organisations, platforms and networks and similar",
+                "type": "Category"
+            },
+            {
+                "id": "Human Rights Watch",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Irish Data Protection Commission",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "CIHEAM Zaragoza",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "D\u00f3chas - the Irish Association of Non-Governmental Development Organisations",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "European Society of Cardiology",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Think tanks and research institutions",
+                "type": "Category"
+            },
+            {
+                "id": "Centre for Reproductive Rights",
+                "type": "Lobbyist"
+            },
+            {
+                "id": "Noreen Walsh",
+                "type": "Person"
+            },
+            {
+                "id": "Vincent Walsh",
+                "type": "Person"
+            },
+            {
+                "id": "Fine Gael",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Griffith College Dublin",
+                "type": "Educational Institution"
+            },
+            {
+                "id": "Army Reserve",
+                "type": "Military Organization"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Maria Walsh",
+                "target": "COPA-COCEGA",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "UNWRA",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Associations and networks of public authorities",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Associations and networks of public authorities",
+                "target": "European Coordination of Committees for Palestine",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "IFPO",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "IFPEA",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Irish South and West FPO",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Killybegs Stevedoring Limited",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Irish South and East Fish Producers Organisation",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Non-governmental organisations, platforms and networks and similar",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Non-governmental organisations, platforms and networks and similar",
+                "target": "Human Rights Watch",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Irish Data Protection Commission",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "CIHEAM Zaragoza",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "D\u00f3chas - the Irish Association of Non-Governmental Development Organisations",
+                "relation": "Direct Contact"
+            },
+            {
+                "source": "Associations and networks of public authorities",
+                "target": "European Society of Cardiology",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Think tanks and research institutions",
+                "relation": "Related to Category"
+            },
+            {
+                "source": "Think tanks and research institutions",
+                "target": "Centre for Reproductive Rights",
+                "relation": "Includes Lobbyist"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Noreen Walsh",
+                "relation": "Mother"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Vincent Walsh",
+                "relation": "Father"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Fine Gael",
+                "relation": "Member"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Griffith College Dublin",
+                "relation": "Alumna"
+            },
+            {
+                "source": "Maria Walsh",
+                "target": "Army Reserve",
+                "relation": "Former Member"
+            }
+        ]
+    },
+    "Barry Cowen": {
+        "nodes": [
+            {
+                "id": "Bernard Cowen",
+                "type": "Person"
+            },
+            {
+                "id": "Brian Cowen",
+                "type": "Person"
+            },
+            {
+                "id": "Fianna F\u00e1il",
+                "type": "Political Party"
+            },
+            {
+                "id": "Offaly County Council",
+                "type": "Government Body"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "Legislature"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Legislature"
+            },
+            {
+                "id": "Department of Agriculture, Food and the Marine",
+                "type": "Government Department"
+            },
+            {
+                "id": "Barry Cowen",
+                "type": "Person"
+            },
+            {
+                "id": "Government of Ireland",
+                "type": "Government Body"
+            },
+            {
+                "id": "Seanad \u00c9ireann",
+                "type": "Legislature"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Barry Cowen",
+                "target": "Bernard Cowen",
+                "relation": "Father"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "Brian Cowen",
+                "relation": "Brother"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "Offaly County Council",
+                "relation": "Member (1991\u20132011)"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (2011\u20132024)"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (2024\u2013present)"
+            },
+            {
+                "source": "Barry Cowen",
+                "target": "Department of Agriculture, Food and the Marine",
+                "relation": "Minister (June\u2013July 2020)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Bernard Cowen",
+                "relation": "Father"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Barry Cowen",
+                "relation": "Brother"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister for Labour (1992\u20131993)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister for Transport, Energy and Communications (1993\u20131994)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister for Health and Children (1997\u20132000)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister for Foreign Affairs (2000\u20132004)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister for Finance (2004\u20132008)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "T\u00e1naiste (2007\u20132008)"
+            },
+            {
+                "source": "Brian Cowen",
+                "target": "Government of Ireland",
+                "relation": "Taoiseach (2008\u20132011)"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "Brian Cowen",
+                "relation": "Son"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "Barry Cowen",
+                "relation": "Son"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "Seanad \u00c9ireann",
+                "relation": "Senator"
+            },
+            {
+                "source": "Bernard Cowen",
+                "target": "Government of Ireland",
+                "relation": "Minister of State"
+            }
+        ]
+    },
+    "Regina Doherty": {
+        "nodes": [
+            {
+                "id": "Declan Doherty",
+                "type": "Person"
+            },
+            {
+                "id": "Fine Gael",
+                "type": "Political Party"
+            },
+            {
+                "id": "Regina Doherty",
+                "type": "Person"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Regina Doherty",
+                "target": "Declan Doherty",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Regina Doherty",
+                "target": "Fine Gael",
+                "relation": "Member, Former Leader in Seanad \u00c9ireann"
+            },
+            {
+                "source": "Regina Doherty",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            }
+        ]
+    },
+    "Luke Ming Flanagan": {
+        "nodes": [
+            {
+                "id": "Judith Flanagan",
+                "type": "Person"
+            },
+            {
+                "id": "Luke Ming Flanagan",
+                "type": "Person"
+            },
+            {
+                "id": "Roscommon County Council",
+                "type": "Local Government"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "National Parliament"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "The Left in the European Parliament",
+                "type": "Political Group"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Luke Ming Flanagan",
+                "target": "Judith Flanagan",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Luke Ming Flanagan",
+                "target": "Roscommon County Council",
+                "relation": "Member (2004\u20132011), Mayor (2010\u20132011)"
+            },
+            {
+                "source": "Luke Ming Flanagan",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Teachta D\u00e1la (TD) for Roscommon\u2013South Leitrim (2011\u20132014)"
+            },
+            {
+                "source": "Luke Ming Flanagan",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP) for Midlands\u2013North-West (2014\u2013present)"
+            },
+            {
+                "source": "Luke Ming Flanagan",
+                "target": "The Left in the European Parliament",
+                "relation": "Member"
+            }
+        ]
+    },
+    "Michael McNamara": {
+        "nodes": [
+            {
+                "id": "Sarah Jane Hillery",
+                "type": "Person"
+            },
+            {
+                "id": "Patrick Hillery",
+                "type": "Person"
+            },
+            {
+                "id": "Michael McNamara",
+                "type": "Person"
+            },
+            {
+                "id": "Labour Party",
+                "type": "Political Party"
+            },
+            {
+                "id": "Renew Europe",
+                "type": "Political Group"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Oireachtas",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Parliamentary Assembly of the Council of Europe",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Special Committee on the COVID-19 Response",
+                "type": "Parliamentary Committee"
+            },
+            {
+                "id": "Maeve Finnegan",
+                "type": "Person"
+            },
+            {
+                "id": "John Hillery",
+                "type": "Person"
+            },
+            {
+                "id": "Fianna F\u00e1il",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Commission",
+                "type": "Political Institution"
+            },
+            {
+                "id": "Department of Education (Ireland)",
+                "type": "Government Department"
+            },
+            {
+                "id": "Department of Industry and Commerce (Ireland)",
+                "type": "Government Department"
+            },
+            {
+                "id": "Department of Labour (Ireland)",
+                "type": "Government Department"
+            },
+            {
+                "id": "Department of Foreign Affairs (Ireland)",
+                "type": "Government Department"
+            },
+            {
+                "id": "Presidency of Ireland",
+                "type": "Political Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Michael McNamara",
+                "target": "Sarah Jane Hillery",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Patrick Hillery",
+                "relation": "Father-in-law"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Labour Party",
+                "relation": "Former Member"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Renew Europe",
+                "relation": "Member"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP)"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Oireachtas",
+                "relation": "Former Teachta D\u00e1la (TD)"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Parliamentary Assembly of the Council of Europe",
+                "relation": "Former Member"
+            },
+            {
+                "source": "Michael McNamara",
+                "target": "Special Committee on the COVID-19 Response",
+                "relation": ""
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Maeve Finnegan",
+                "relation": "Spouse"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "John Hillery",
+                "relation": "Son"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Fianna F\u00e1il",
+                "relation": "Member"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "European Commission",
+                "relation": "Former Vice-President"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Department of Education (Ireland)",
+                "relation": "Former Minister for Education"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Department of Industry and Commerce (Ireland)",
+                "relation": "Former Minister for Industry and Commerce"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Department of Labour (Ireland)",
+                "relation": "Former Minister for Labour"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Department of Foreign Affairs (Ireland)",
+                "relation": "Former Minister for Foreign Affairs"
+            },
+            {
+                "source": "Patrick Hillery",
+                "target": "Presidency of Ireland",
+                "relation": "Former President"
+            }
+        ]
+    },
+    "Ciaran Mullooly": {
+        "nodes": [
+            {
+                "id": "Independent Ireland",
+                "type": "Political Party"
+            },
+            {
+                "id": "Ciaran Mullooly",
+                "type": "Person"
+            },
+            {
+                "id": "Renew Europe",
+                "type": "Political Group"
+            },
+            {
+                "id": "European Democratic Party",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Institution"
+            },
+            {
+                "id": "RT\u00c9",
+                "type": "Media Organization"
+            },
+            {
+                "id": "Longford County Council",
+                "type": "Government Organization"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Ciaran Mullooly",
+                "target": "Independent Ireland",
+                "relation": "Member"
+            },
+            {
+                "source": "Ciaran Mullooly",
+                "target": "Renew Europe",
+                "relation": "Member"
+            },
+            {
+                "source": "Ciaran Mullooly",
+                "target": "European Democratic Party",
+                "relation": "Member"
+            },
+            {
+                "source": "Ciaran Mullooly",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP) for Midlands\u2013North-West constituency"
+            },
+            {
+                "source": "Ciaran Mullooly",
+                "target": "RT\u00c9",
+                "relation": "Former Midlands Correspondent"
+            },
+            {
+                "source": "Ciaran Mullooly",
+                "target": "Longford County Council",
+                "relation": "Former Tourism Activator"
+            }
+        ]
+    },
+    "Aodhán Ó Ríordáin": {
+        "nodes": [
+            {
+                "id": "Labour Party",
+                "type": "Political Party"
+            },
+            {
+                "id": "European Parliament",
+                "type": "Political Entity"
+            },
+            {
+                "id": "Aodhán Ó Ríordáin",
+                "type": "Person"
+            },
+            {
+                "id": "D\u00e1il \u00c9ireann",
+                "type": "Political Entity"
+            },
+            {
+                "id": "Seanad \u00c9ireann",
+                "type": "Political Entity"
+            },
+            {
+                "id": "St. Laurence O'Toole's Girls' Primary School",
+                "type": "Educational Institution"
+            }
+        ],
+        "edges": [
+            {
+                "source": "Aodhán Ó Ríordáin",
+                "target": "Labour Party",
+                "relation": "Member; served as TD, Senator, and Minister of State en.wikipedia.org"
+            },
+            {
+                "source": "Aodhán Ó Ríordáin",
+                "target": "European Parliament",
+                "relation": "Member of the European Parliament (MEP) for Dublin since July 2024"
+            },
+            {
+                "source": "Aodhán Ó Ríordáin",
+                "target": "D\u00e1il \u00c9ireann",
+                "relation": "Served as Teachta D\u00e1la (TD) for Dublin North-Central and Dublin Bay North"
+            },
+            {
+                "source": "Aodhán Ó Ríordáin",
+                "target": "Seanad \u00c9ireann",
+                "relation": "Served as Senator for the Industrial and Commercial Panel"
+            },
+            {
+                "source": "Aodhán Ó Ríordáin",
+                "target": "St. Laurence O'Toole's Girls' Primary School",
+                "relation": "Former Principal"
+            }
+        ]
+    }
+}
