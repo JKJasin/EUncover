@@ -18,14 +18,14 @@ EUncover is a **student-led web application** developed as part of the **Data Sp
 
 ## 🚀 Try It Now
 No installation is required! Simply visit the **EUncover web app** on **Streamlit Community Cloud**:  
-🔗 [Click Here to Access EUncover](https://your-streamlit-app-link.com)
+🔗 [Click Here to Access EUncover](https://euncover.streamlit.app/)
 
 ## 🎯 Project Objectives
 EUncover aims to:
 - Visualize relationships between **MEPs, their family members, lobbyists, political organizations, and other stakeholders**.
 - Allow users to **interactively explore** these networks.
 - Provide insights into offically declared information, **lobbying connections** and **recent news**.
-- Consolidate important infomrmation about MEPs in one place. 
+- Consolidate important information about MEPs in one place. 
 
 ## 📊 Data Sources
 The data presented on this website is obtained from:
