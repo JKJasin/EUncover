@@ -1,21 +1,7 @@
-# Streamlit for the web app
 streamlit==1.41.1
-
-# Data manipulation
 pandas==2.2.3
 numpy==2.2.2
-
-# Visualization
 altair==5.5.0
 plotly==5.29.3
 pyvis==0.3.2
-
-# Image handling
 pillow==11.1.0
-
-# JSON and AST parsing (these are built-in but included for clarity)
-json
-ast
-
-# File path handling (built into Python, but Pathlib is standard)
-pathlib
